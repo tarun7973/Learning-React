@@ -1,4 +1,4 @@
-# Home page of pizza app
+# React Pizza app
 ![image](https://user-images.githubusercontent.com/68695106/126129233-c21e1166-b138-4774-9db8-70752a8f35bb.png)
 
 # Shopping card
